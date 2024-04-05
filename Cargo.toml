@@ -1,6 +1,10 @@
 [package]
 name = "mnx"
-version = "0.0.1"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/hifa-lang/mnx.git"
+description = "A port of MNX in Rust."
+readme = "README.md"
 edition = "2021"
 
 [dependencies]
